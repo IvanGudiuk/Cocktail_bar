@@ -5,7 +5,7 @@
   "homepage": "https://ivangudiuk.github.io/Cocktail_bar/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /TWS-project/"
+    "build": "parcel build src/*.html --public-url /Cocktail_bar/"
   },
   "repository": {
     "type": "git",
